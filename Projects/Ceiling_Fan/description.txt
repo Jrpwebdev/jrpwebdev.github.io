@@ -1,0 +1,9 @@
+Ceiling Fan
+---
+This product is intended for game/real time/background use. This model is not intended for subdivision. ||SPECS|| -All quads and tris, No n-gons -Model unwrapped manually to make most efficient use of the UV space. -Scaled to approximate real world size (centimeters) -Tested in Marmoset Toolbag 3 (see renders) -Tested in Unreal Engine 4 -Tested in Unity Engine -No special plugins needed. -.obj and .fbx versions exported from Maya 2018 || Textures || -2048x2048 base color, roughness, metalness, and normal maps -Textures designed for physically based rendering (PBR) -Textures in .targa format texture maps for Unreal Engine 4 and Unity are avaliable. 
+---
+Zbrush, Blender, Maya, Substance Painter, Marmoset Toolbag, Unity, Unreal Engine
+---
+https://img-new.cgtrader.com/items/2165911/e53d2ad7b2/ceiling-fan-game-ready-asset-pbr-3d-model-low-poly-obj-mtl-fbx.jpg
+---
+Ceiling_Fan.html

@@ -5,6 +5,6 @@ High Poly Modelling
 UV-Unwrapping
 Retopology
 Hand-painted Texturing
-Weapon Modelling
-Environment Art
-Tileable Materials
+Product Animation
+Product Rendering
+3D Animation

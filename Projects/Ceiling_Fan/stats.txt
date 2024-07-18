@@ -1,0 +1,11 @@
+Triangles: 19,414
+
+Materials: 1
+
+Texture Size: 2048x2048
+
+Texel Density: 2048x2048
+
+Workflow: PBR Metal/Gloss
+
+Target Engine: Unity/ Unreal Engine

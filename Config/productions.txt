@@ -2,26 +2,15 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+FreeLance 3D Artist
+CGTrader
+2019-present
+https://pbs.twimg.com/profile_images/1725531572076457984/3dScqVZa_400x400.jpg
+As a Modeler Creator at CGTrader, I designed and sold high-quality 3D models, specializing in detailed modeling, realistic texturing, and market analysis to meet industry trends. I managed product listings, engaged with customers for support and feedback, and ensured all models met stringent quality standards, contributing to successful sales on the platform.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Ecommerce Product Rendering Specialist
+Freelance
+Jan 2024-present
+https://www.shutterstock.com/image-vector/blank-avatar-photo-place-holder-600nw-1114445501.jpg 
+As an Ecommerce Product Rendering Specialist, I specialize in creating captivating product renderings tailored specifically for ecommerce sites. With a keen eye for detail and a deep understanding of visual marketing principles, I work closely with online businesses to enhance the presentation of their products, ultimately driving sales and maximizing conversion rates. Through stunning visual representations, I help brands showcase their products in the best possible light, ensuring that every image communicates value and entices potential customers. With a proven track record of improving product visibility and engagement, I am dedicated to helping ecommerce businesses stand out in a competitive market landscape.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
----
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
-https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
