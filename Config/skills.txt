@@ -8,3 +8,5 @@ Hand-painted Texturing
 Product Animation
 Product Rendering
 3D Animation
+Rigging
+VR Testing

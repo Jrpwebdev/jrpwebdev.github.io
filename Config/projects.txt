@@ -1,3 +1,4 @@
 Ceiling_Fan
 CRT_TV
 Keyboard
+Earbuds

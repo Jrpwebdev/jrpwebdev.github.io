@@ -1,0 +1,9 @@
+Earbuds
+---
+This 3D rendered model of earbuds showcases a modern, ergonomic design with detailed textures and lifelike lighting. Created for eCommerce platforms, it emphasizes the product's features and aesthetics, providing a compelling visual for online shoppers. Ideal for enhancing product pages, marketing campaigns, and virtual displays, this model elevates the customer experience and drives sales.
+---
+Blender, Substance Painter
+---
+https://i.postimg.cc/054kHwhD/0001.png
+---
+Earbuds.html
