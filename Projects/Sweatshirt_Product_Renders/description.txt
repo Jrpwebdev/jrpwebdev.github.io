@@ -1,0 +1,9 @@
+Sweatshirt_Product_Renders
+---
+This portfolio piece features a high-quality, realistic 3D model of a classic hooded sweatshirt, meticulously crafted to showcase all angles and details through a smooth, continuous 360-degree spin. Designed for a client who wanted to highlight their product on their store, this model enhances visual appeal and provides an engaging shopping experience for customers. 
+---
+Blender, Substance Painter, Marvelous Designer
+---
+https://i.postimg.cc/jdhpYQFh/hoodietrump2.png
+---
+Sweatshirt_Product_Renders.html 
