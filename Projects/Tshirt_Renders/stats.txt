@@ -1,0 +1,11 @@
+Triangles:
+
+Materials:
+
+Texture Size:
+
+Texel Density:
+
+Workflow: PBR Metal/Gloss
+
+Target Engine: Blender
