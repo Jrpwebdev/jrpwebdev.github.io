@@ -1,5 +1,6 @@
 Sweatshirt_Product_Renders
 Tshirt_Renders
+Baseball_Cap_Renders
 Ecommerce_Renders
 Keyboard
 Earbuds
